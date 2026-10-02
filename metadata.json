@@ -1,0 +1,6 @@
+{
+  "name": "QueueWise App",
+  "description": "Smart Digital Queue Management System with separate Citizen Self-Service Website and Connected Real-Time Admin Command Portal for Hospitals, Banks, and Civic Offices",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
